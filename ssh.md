@@ -2,4 +2,4 @@
 `ssh-agent $(ssh-add <private-key>; git clone <repo>)`
 
 # ssh keygen
-ssh-keygen -t ed25519 -C "<email>"
+`ssh-keygen -t ed25519 -C "<email>"`
